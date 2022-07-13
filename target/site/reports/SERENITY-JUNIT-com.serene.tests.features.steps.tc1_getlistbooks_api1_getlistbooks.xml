@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.serene.tests.features.steps.TC1_GetListBooks" skipped="0" tests="1" time="9.52" timestamp="2022-07-12 05:55:35"><testcase classname="com.serene.tests.features.steps.TC1_GetListBooks" name="Api1  get list books"><failure message="&#13;&#10;The following 2 assertions failed:&#13;&#10;1) expected:&lt;[fals]e&gt; but was:&lt;[tru]e&gt;&#13;&#10;at TC1_GetListBooks.API1_GetListBooks(TC1_GetListBooks.java:34) expected:&lt;[fals]e&gt; but was:&lt;[tru]e&gt;&#13;&#10;2) expected:&lt;[tru]e&gt; but was:&lt;[fals]e&gt;&#13;&#10;at TC1_GetListBooks.API1_GetListBooks(TC1_GetListBooks.java:35) expected:&lt;[tru]e&gt; but was:&lt;[fals]e&gt;&#13;&#10;" type="org.assertj.core.api.SoftAssertionError">&#13;
+The following 2 assertions failed:&#13;
+1) expected:&lt;[fals]e&gt; but was:&lt;[tru]e&gt;&#13;
+at TC1_GetListBooks.API1_GetListBooks(TC1_GetListBooks.java:34) expected:&lt;[fals]e&gt; but was:&lt;[tru]e&gt;&#13;
+2) expected:&lt;[tru]e&gt; but was:&lt;[fals]e&gt;&#13;
+at TC1_GetListBooks.API1_GetListBooks(TC1_GetListBooks.java:35) expected:&lt;[tru]e&gt; but was:&lt;[fals]e&gt;&#13;
+</failure><system-err>&#13;
+The following 2 assertions failed:&#13;
+1) expected:&lt;[fals]e&gt; but was:&lt;[tru]e&gt;&#13;
+at TC1_GetListBooks.API1_GetListBooks(TC1_GetListBooks.java:34) expected:&lt;[fals]e&gt; but was:&lt;[tru]e&gt;&#13;
+2) expected:&lt;[tru]e&gt; but was:&lt;[fals]e&gt;&#13;
+at TC1_GetListBooks.API1_GetListBooks(TC1_GetListBooks.java:35) expected:&lt;[tru]e&gt; but was:&lt;[fals]e&gt;&#13;
+&#13;
+com.serene.tests.features.steps.TC1_GetListBooks.cleanup(TC1_GetListBooks.java:41)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>

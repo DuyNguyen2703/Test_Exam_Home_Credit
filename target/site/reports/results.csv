@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tc1  get list books","Api1  get list books","FAILURE","2022-07-12T17:55:35.054+07:00[Asia/Bangkok]","0.0","9.52"
+"Manage Books","Get Book By ID","SUCCESS","2022-07-12T17:57:17.843+07:00[Asia/Bangkok]","0.0","11.98"

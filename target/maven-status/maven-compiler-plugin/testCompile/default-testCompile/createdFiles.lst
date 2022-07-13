@@ -1,0 +1,5 @@
+com\serene\tests\features\steps\GetBookById.class
+com\serene\tests\features\steps\TC1_GetListBooks.class
+com\serene\tests\features\TestRunner.class
+com\serene\tests\features\steps\TC2_GetBookById.class
+com\serene\tests\features\steps\Books.class
